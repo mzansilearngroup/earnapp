@@ -1,0 +1,6 @@
+{
+  "name": "PointsPoolSA",
+  "description": "PointsPoolSA Expo SDK 52 mobile app simulator and complete React Native + Expo Router + Firestore project code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
